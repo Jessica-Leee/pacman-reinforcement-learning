@@ -32,3 +32,5 @@ edx_grade
 *.tar
 *.tar.gz
 *.tgz
+*.log
+recorded-game-*

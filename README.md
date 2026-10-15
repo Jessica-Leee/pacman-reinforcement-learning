@@ -30,6 +30,8 @@ The environment provides either an MDP model to a planning agent or sampled tran
 
 Use Python 3 from this directory. Source inspection found no third-party Python package requirements for the local runtime and headless checks; no `pip install` step is required. Tkinter is used by graphical displays and may depend on the Python distribution. It is not needed for the commands below.
 
+The verification used **Python 3.13.7**. The repository includes the course environments, layouts, and local test fixtures, so no dataset download, API key, or Gradescope access is required for these headless examples.
+
 ```sh
 python3 autograder.py --no-graphics
 ```
@@ -51,6 +53,8 @@ The final submission was checked with **Python 3.13.7** and the included course 
 - The Pacman Q-learning check won 100/100 evaluation games under the harness's fixed-seed configuration.
 
 These are local harness results, not a new Gradescope grade or a claim about unseen tests. The original `grading.py` emits a non-fatal string-escape `SyntaxWarning` on Python 3.13; the course file is preserved unchanged. No GUI was opened. See [VALIDATION.md](VALIDATION.md) for the score breakdown.
+
+These results were recorded on **October 14, 2026** and were not rerun for this documentation refresh. The 100/100 wins belong to that fixed-seed evaluation, not a general win-rate estimate. The nine question groups and their points are detailed in the [validation record](VALIDATION.md).
 
 ## Coursework provenance and access
 

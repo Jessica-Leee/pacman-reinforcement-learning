@@ -1,0 +1,2 @@
+# No third-party Python packages are required by the included local code.
+# Use Python 3. Graphical displays additionally use Tkinter from the Python distribution.

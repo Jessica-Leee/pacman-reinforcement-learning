@@ -1,4 +1,4 @@
-# Pacman Reinforcement Learning
+# Pacman Reinforcement Learning — CS 188
 
 An archive of UC Berkeley CS 188 coursework exploring planning and reinforcement learning in Gridworld and Pacman.
 

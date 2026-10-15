@@ -1,6 +1,6 @@
 # Pacman Reinforcement Learning
 
-A private archive of UC Berkeley CS 188 coursework exploring planning and reinforcement learning in Gridworld and Pacman.
+An archive of UC Berkeley CS 188 coursework exploring planning and reinforcement learning in Gridworld and Pacman.
 
 ## Implemented methods
 
@@ -62,4 +62,4 @@ This is CS 188 Project 3, built on the [UC Berkeley Pacman AI projects](http://a
 
 The original notices credit John DeNero and Dan Klein for the core projects and autograders, with student-side autograding added by Brad Miller, Nick Hay, and Pieter Abbeel. Original licensing and attribution notices are retained in the source files.
 
-**Keep this repository private.** The source notices allow educational use and extension subject to retaining attribution and not distributing or publishing solutions. No additional open-source license or public redistribution permission is granted by this archive.
+The source notices allow educational use and extension subject to retaining attribution and not distributing or publishing solutions. Original notices are preserved. Repository visibility does not grant additional open-source licensing or redistribution permission.
